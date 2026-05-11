@@ -61,3 +61,11 @@ npm run dev
 
 - Railway config: `backend/railway.toml`
 - Vercel config: `frontend/vercel.json`
+
+## Live Demo
+
+Frontend:
+https://team-task-manager-i6ie-id4jilkkm.vercel.app/
+
+Backend:
+https://team-task-manager-production-d5fb.up.railway.app
